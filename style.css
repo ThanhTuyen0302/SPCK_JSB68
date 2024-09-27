@@ -12,6 +12,7 @@
     }
     :root {
       --main-color: #d14d0f;
+
       --second-color: #081b54;
     }
     section {
@@ -59,6 +60,7 @@
     }
     .navbar {
       display: flex;
+      
     }
     .navbar a {
       font-size: 1rem;
