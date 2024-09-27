@@ -12,7 +12,6 @@
     }
     :root {
       --main-color: #d14d0f;
-
       --second-color: #081b54;
     }
     section {
@@ -118,7 +117,7 @@
       font-weight: 500;
     }
     .btn:hover {
-      letter-spacing: 2px;
+      /* letter-spacing: 2px; */
       color: #fff;
       background: var(--main-color);
     }
